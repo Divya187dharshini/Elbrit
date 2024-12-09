@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f4f9fd;
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #002868;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,44 @@
+.blogSection {
+    padding: 2rem 0;
+    background-color: #fff;
+  }
+  
+  .blogSection h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .blogGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .blogCard {
+    background: #f7fbff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .blogImage img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .blogContent {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .blogDate {
+    font-size: 0.9rem;
+    color: #888;
+    margin-bottom: 0.5rem;
+  }
+  
+  .readMoreButton {
+    margin-top: 1rem;
+  }
+  

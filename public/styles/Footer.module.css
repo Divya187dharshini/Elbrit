@@ -1,0 +1,23 @@
+.footer {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 20px 0; /* Add some vertical spacing */
+    text-align: center; /* Center-align the text */
+    font-size: 14px; /* Adjust font size for readability */
+    color: #6c757d; /* Subtle text color */
+    border-top: 1px solid #e9ecef; /* Add a top border for separation */
+  }
+  
+  .footer p {
+    margin: 0; /* Remove default margin */
+    font-family: 'Arial', sans-serif; /* Set a clean font */
+  }
+  
+  .footer a {
+    color: #007bff; /* Blue color for links */
+    text-decoration: none; /* Remove underline for links */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
